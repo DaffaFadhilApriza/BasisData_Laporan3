@@ -43,7 +43,7 @@ Gambar diatas adalah tampilan dari struktur tabel transaksi yang telah dibuat pa
 
 <img width="527" alt="image" src="https://github.com/DaffaFadhilApriza/BasisData_Laporan3/assets/131609626/f6e49c3b-2d5b-4a78-b402-b0be8ef25c3b">
 
-Gambar diatas adalah tampilat data pada tabel transaksi yang telah dibuat.
+Gambar diatas adalah tampilan data pada tabel transaksi yang telah dibuat.
 
 
 

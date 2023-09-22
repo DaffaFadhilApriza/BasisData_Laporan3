@@ -32,7 +32,7 @@ Gambar diatas adalah tampilan data pada tabel petugas bank yang telah dibuat.
 
 Gambar diatas adalah tampilan dari struktur tabel rekening yang telah dibuat pada phpmyadmin. Pada tabel ini terdapat variabel no_rekening, nama_pemilik_rekening, jenis_rekening, dan saldo. Primary key pada tabel tersebut adalah no_rekening. Foreign key pada tabel tersebut adalah nama_pemilik_rekening yang terhubung ke tabel nasabah.
 
-<img width="441" alt="image" src="https://github.com/DaffaFadhilApriza/BasisData_Laporan3/assets/131609626/5888cc0e-0b63-44b2-b98e-9be06c94b230">
+<img width="514" alt="image" src="https://github.com/DaffaFadhilApriza/BasisData_Laporan3/assets/131609626/25683387-1773-4069-adf8-fb791fd263e4">
 
 Gambar diatas adalah tampilan data pada tabel rekening yang telah dibuat.
 

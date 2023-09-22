@@ -1,4 +1,4 @@
-CREATE TABLE (
+CREATE TABLE cabang_bank (
   id_cabang INT(10) PRIMARY KEY,
   nama_cabang VARCHAR(20),
   alamat_cabang VARCHAR(20),

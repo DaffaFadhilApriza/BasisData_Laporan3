@@ -1,7 +1,8 @@
 CREATE TABLE (
   id_petugas INT(10) PRIMARY KEY,
+  cabang_petugas VARCHAR(20),
   nama VARCHAR(20),
   jabatan VARCHAR(20),
-  no_telepon INT(12),
-  jenis_kelamin ENUM('Laki-laki', 'Perempuan')
+  jenis_kelamin ENUM('Laki-laki', 'Perempuan'),
+  no_telepon INT(12)
 );
